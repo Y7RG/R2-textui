@@ -15,7 +15,7 @@ function Close()
     })
 end
 
-exports("Showw", Show)
+exports("Show", Show)
 exports("Close", Close)
 
 
